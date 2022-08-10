@@ -10,6 +10,12 @@ namespace console_art
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("     a            cccc");
+           Console.WriteLine("    a a          c");
+          Console.WriteLine("   aaaaa         c");
+         Console.WriteLine("  a     a         cccc");
+            Console.ReadKey();
         }
     }
+    
 }
